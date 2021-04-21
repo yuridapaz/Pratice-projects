@@ -250,7 +250,7 @@ header {
 }
 
 .conhecimento:nth-child(3) {
-  grid-column: 4 / 8;
+  grid-column: 4 / 7;
   grid-row: 5 / -1;
 }
 
