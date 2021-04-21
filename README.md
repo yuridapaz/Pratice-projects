@@ -6,6 +6,10 @@ This is my Pratice projects folder.
 
 ![](https://github.com/yuridapaz/Pratice-projects/blob/master/Images%20%26%20Gifs/First%20personal%20landing%20page.gif)
 
+<div align="center">
+    <img src="https://github.com/yuridapaz/Pratice-projects/blob/master/Images%20%26%20Gifs/First%20personal%20landing%20page.gif" alt="demo-web" height="400">
+</div>
+
 #### Programing Languages & Tools
 
 - HTML5
