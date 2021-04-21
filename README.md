@@ -2,16 +2,17 @@
 
 This is my Pratice projects folder.
 
-## [](https://github.com/yuridapaz/Pratice-projects/tree/master/First%20personal%20landing%20page)
+## [Lading page (web only)](https://github.com/yuridapaz/Pratice-projects/tree/master/First%20personal%20landing%20page)
+
 
 <div align="center">
-    <img src="https://github.com/yuridapaz/Pratice-projects/blob/master/Images%20%26%20Gifs/First%20personal%20landing%20page.gif" alt="demo-web"  height="600">
+    <img src="https://github.com/yuridapaz/Pratice-projects/blob/master/Images%20%26%20Gifs/First%20personal%20landing%20page.gif" alt="demo-web" height="400">
 </div>
-
-![](https://github.com/yuridapaz/Pratice-projects/blob/master/Images%20%26%20Gifs/First%20personal%20landing%20page.gif)
 
 #### Programing Languages & Tools
 
 - HTML5
 - CSS
 - JavaScript
+
+OBS: This project was made for web page, not for mobile. 
