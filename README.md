@@ -17,7 +17,7 @@ This is my Pratice projects folder.
 
 OBS: This project was made for web page, not for mobile. 
 
-## [Lading page (web only)](https://github.com/yuridapaz/Pratice-projects/tree/master/Product%20detail%20page%20)
+## [Product detail page (web only)](https://github.com/yuridapaz/Pratice-projects/tree/master/Product%20detail%20page%20)
 
 
 <div align="center">
