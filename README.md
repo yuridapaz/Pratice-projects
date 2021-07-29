@@ -29,3 +29,34 @@ OBS: This project was made for web page, not for mobile.
 - HTML5
 - CSS
 - JavaScript
+
+## [Responsive login and registration form (web only)](https://github.com/yuridapaz/Pratice-projects/tree/master/Responsive%20login%20and%20registration%20form)
+
+
+<div align="center">
+    <img src="https://github.com/yuridapaz/Pratice-projects/blob/master/Images%20%26%20Gifs/Responsive-login-and-registration-form-web.gif" alt="demo-web" height="400">
+     <img src="https://github.com/yuridapaz/Pratice-projects/blob/master/Images%20%26%20Gifs/Responsive-login-and-registration-form-mobile.gif" alt="demo-web" height="400">
+</div>
+
+#### Programing Languages & Tools
+
+- HTML5
+- CSS
+- JavaScript
+
+This project was done through a tutorial found online, in order to improve learning in CSS position.
+
+
+## [Responsive Contact Form](https://github.com/yuridapaz/Pratice-projects/tree/master/Responsive%20Contact%20Form)
+
+
+<div align="center">
+    <img src="https://github.com/yuridapaz/Pratice-projects/blob/master/Images%20%26%20Gifs/responsive-contact-form-web.png" alt="demo-web" height="400">
+     <img src="https://github.com/yuridapaz/Pratice-projects/blob/master/Images%20%26%20Gifs/responsive-contact-form-mobile.png" alt="demo-web" height="400">
+</div>
+
+#### Programing Languages & Tools
+
+- HTML5
+- CSS
+- JavaScript
