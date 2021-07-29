@@ -44,7 +44,7 @@ OBS: This project was made for web page, not for mobile.
 - CSS
 - JavaScript
 
-This project was done through a tutorial found online, in order to improve learning in CSS position.
+This project was done through a tutorial found online, in order to improve learning CSS position.
 
 
 ## [Responsive Contact Form](https://github.com/yuridapaz/Pratice-projects/tree/master/Responsive%20Contact%20Form)
