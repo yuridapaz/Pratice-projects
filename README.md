@@ -34,8 +34,8 @@ OBS: This project was made for web page, not for mobile.
 
 
 <div align="center">
-    <img src="https://github.com/yuridapaz/Pratice-projects/blob/master/Images%20%26%20Gifs/Responsive-login-and-registration-form-web.gif" alt="demo-web" height="400">
-     <img src="https://github.com/yuridapaz/Pratice-projects/blob/master/Images%20%26%20Gifs/Responsive-login-and-registration-form-mobile.gif" alt="demo-web" height="400">
+    <img src="https://github.com/yuridapaz/Pratice-projects/blob/master/Images%20%26%20Gifs/Responsive-login-and-registration-form-web.gif" alt="demo-web" height="340">
+     <img src="https://github.com/yuridapaz/Pratice-projects/blob/master/Images%20%26%20Gifs/Responsive-login-and-registration-form-mobile.gif" alt="demo-web" height="340">
 </div>
 
 #### Programing Languages & Tools
@@ -51,8 +51,8 @@ This project was done through a tutorial found online, in order to improve learn
 
 
 <div align="center">
-    <img src="https://github.com/yuridapaz/Pratice-projects/blob/master/Images%20%26%20Gifs/responsive-contact-form-web.png" alt="demo-web" height="400">
-     <img src="https://github.com/yuridapaz/Pratice-projects/blob/master/Images%20%26%20Gifs/responsive-contact-form-mobile.png" alt="demo-web" height="400">
+    <img src="https://github.com/yuridapaz/Pratice-projects/blob/master/Images%20%26%20Gifs/responsive-contact-form-web.png" alt="demo-web" height="340">
+     <img src="https://github.com/yuridapaz/Pratice-projects/blob/master/Images%20%26%20Gifs/responsive-contact-form-mobile.png" alt="demo-web" height="340">
 </div>
 
 #### Programing Languages & Tools
